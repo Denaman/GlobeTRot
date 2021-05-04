@@ -27,6 +27,7 @@ body{
     margin-top: 5px;
     caret-color: transparent;
     line-height: 20px;
+    transition: width 0.4s linear;
 }
 
 .search .search-input{
@@ -36,4 +37,5 @@ body{
     font-size: 19px;
     font-weight: 300;
     color: black;
+    transition: width 0.4s linear;
 }
