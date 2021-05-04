@@ -28,3 +28,12 @@ body{
     caret-color: transparent;
     line-height: 20px;
 }
+
+.search .search-input{
+    padding: 0 10px;
+    width: 100%;
+    caret-color: #CD853F;
+    font-size: 19px;
+    font-weight: 300;
+    color: black;
+}
