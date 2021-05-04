@@ -22,4 +22,6 @@ body{
     /* we are reseting the default values for border and outline that bootstrap uses*/
     border: 0;
     outline: 0;
+    background: none;
+    width: 0;
 }
