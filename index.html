@@ -61,7 +61,9 @@
         function search(){
             //An if statement that checks what key we are using (ascii code for enter key 13)
             if(event.keyCode == 13){
-                
+                //Query document with the getElementById attribute to target the input element, getting the value from the user
+                let location = document.getElementById("test").value;
+                console.log(location)
             }
         }
     </script>
