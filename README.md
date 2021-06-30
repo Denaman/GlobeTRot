@@ -11,3 +11,11 @@ projects that are intended to showcase my skills and credentials for potential e
 ## UX
 
 GlobeTrot, an acronym for globetrotting, is a platform for tourists to search for a destination and see interesting tourist sites they can visit.
+
+## Features:
+
+Search box and map.
+
+### Existing Features:
+
+### Features left to implement:
