@@ -53,3 +53,13 @@ Search box and map.
 
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
     - The project uses **Chrome Dev Tools** a set of Web Developer Tools built directly into the Google chrome browser.
+
+
+## Testing:
+
+- The project uses <a href="http://ami.responsivedesign.is/">**Am I responsive**</a> to test the responsiveness of the website on different Apple devices.
+  All pages and links functioned as expected on all devices.
+
+- All pages and links displayed and functioned as expected when tested on different browsers, including all viewport sizes.
+
+- All pages and links performed well on all mobile devices via safari and chrome.
