@@ -78,3 +78,17 @@ The project was deployed to GitHub Pages using the following steps...
 - All pages and links performed well on all mobile devices via safari and chrome.
 - Scroll back down through the page to locate the now published site <a href="https://denaman.github.io/GlobeTrot/">**link**</a>  in the "GitHub Pages" section.
 
+
+## Credits:
+
+### Content
+- Text: **Original**.
+<br>
+- HTML /CSS code and JavaScript: **Bootstrap**.
+
+
+## Acknowledgements
+
+- The Code Institue team, including members of the Slack community.
+
+- My mentor, <a href="https://github.com/deye9">**Adegbenga Adeye,**</a> for guiding me through the project.
