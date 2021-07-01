@@ -10,7 +10,7 @@ projects that are intended to showcase my skills and credentials for potential e
 
 ## UX
 
-GlobeTrot, an acronym for globetrotting, is a site that allows to search for a holiday destination of interest.
+GlobeTrot, an acronym for globetrotting, is a site that allows users to search for a holiday destination of interest. Users are able to search for a city and see fitting attractions, hotels and restaurants.
 
 ## Features:
 
@@ -30,7 +30,7 @@ Search box and Google Maps.
     -The project uses **Google API** as a location based service.
 
 - [JavaScript](https://www.javascript.com/)
-    -The project uses **JavaScript** as a programming language.
+    -The project uses **JavaScript,** a programming language, to have the site produce relevant responses dependent on user's actions.
     
 - [Hyper Text Markup Language (HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - The project uses **HTML** as the language to produce the web pages.
@@ -39,11 +39,14 @@ Search box and Google Maps.
     - The project uses **CSS** to style the various elements on the web pages, including coloration, spacing, fonts / layout sizes and the likes.
 
 - [Bootstrap](https://https://getbootstrap.com/)
-    - The project uses **Bootstrap,** a frontend development framework fro creating responsive web designs.
+    - The project uses **Bootstrap,** a frontend development framework for creating responsive web designs.
     https://getbootstrap.com/
 
 - [Gitpod](https://www.gitpod.io/)
     - The project uses **Gitpod,** an Integrated Development Environment (IDE). Also used in creating and saving codes.
+
+- [jQuery](https://jquery.com/)
+    - The project uses **jQuery,** a feature-rich JavaScript library.
 
 - [GitHub]( https://github)
     - The project uses **GitHub,** a Microsoft subsidiary that provides a platform for collaboration and hosting for software development version control using Git.
@@ -71,7 +74,7 @@ Search box and Google Maps.
 ## Deployment
 
 ### GitHub Pages:
-The project was deployed to GitHub Pages using the following steps...
+The project was deployed to GitHub Pages (a hosting platform) using the following steps...
 
 - Log in to GitHub and locate the <a href="https://github.com/">**GitHub Repository.**</a>
 - At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -82,9 +85,9 @@ The project was deployed to GitHub Pages using the following steps...
 - Scroll back down through the page to locate the now published site <a href="https://denaman.github.io/GlobeTrot/">**link**</a>  in the "GitHub Pages" section.
 
 
-## Credits:
+## Credits
 
-### Content
+### Content:
 - Text: **Original**.
 <br>
 - HTML /CSS code and JavaScript: **Bootstrap**.
@@ -94,4 +97,4 @@ The project was deployed to GitHub Pages using the following steps...
 
 - The Code Institue team, including members of the Slack community.
 
-- My mentor, <a href="https://github.com/deye9">**Adegbenga Adeye,**</a> for guiding me through the project.
+- My mentor, <a href="https://github.com/deye9">**Adegbenga Adeye,**</a> for his unrelenting support.
