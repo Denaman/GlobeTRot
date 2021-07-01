@@ -10,20 +10,23 @@ projects that are intended to showcase my skills and credentials for potential e
 
 ## UX
 
-GlobeTrot, an acronym for globetrotting, is a platform for tourists to search for a destination and see interesting tourist sites they can visit.
+GlobeTrot, an acronym for globetrotting, is a site that allows to search for a holiday destination of interest.
 
 ## Features:
 
-Search box and map.
+Search box and Google Maps.
 
 ### Existing features:
+- Search Box: Allows users to search/select a city and see a map with relevant attractions, accomodations and restaurants.
+- Google Maps : Displays a map of searched city with relevant attractions, accomodations and restaurants.
 
 ### Features left to implement:
+- Visual representation of destinations.
 
 
 ## Technologies used:
 
-- [Google Maps API](https://cloud.google.com/maps-platform/)
+- [Google Maps Places API](https://cloud.google.com/maps-platform/)
     -The project uses **Google API** as a location based service.
 
 - [JavaScript](https://www.javascript.com/)
