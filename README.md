@@ -63,3 +63,18 @@ Search box and map.
 - All pages and links displayed and functioned as expected when tested on different browsers, including all viewport sizes.
 
 - All pages and links performed well on all mobile devices via safari and chrome.
+
+
+## Deployment
+
+### GitHub Pages:
+The project was deployed to GitHub Pages using the following steps...
+
+- Log in to GitHub and locate the <a href="https://github.com/">**GitHub Repository.**</a>
+- At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+- Scroll down the Settings page until you locate the "GitHub Pages" Section.
+- Under "Source", click the dropdown called "None" and select "Master Branch".
+- The page will automatically refresh.
+- All pages and links performed well on all mobile devices via safari and chrome.
+- Scroll back down through the page to locate the now published site <a href="https://denaman.github.io/GlobeTrot/">**link**</a>  in the "GitHub Pages" section.
+
