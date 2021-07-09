@@ -45,6 +45,9 @@ Search box and Google Maps.
 - [Gitpod](https://www.gitpod.io/)
     - The project uses **Gitpod,** an Integrated Development Environment (IDE). Also used in creating and saving codes.
 
+- [Visual Studio Code](https://code.visualstudio.com/learn/)
+    - The project uses **VS Code,** a coding editor.
+
 - [jQuery](https://jquery.com/)
     - The project uses **jQuery,** a feature-rich JavaScript library.
 
