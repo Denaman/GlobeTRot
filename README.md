@@ -10,7 +10,7 @@ projects that are intended to showcase my skills and credentials for potential e
 
 ## UX
 
-GlobeTrot, an acronym for globetrotting, is a site that allows users to search for a holiday destination of interest. Users are able to search for a city and see fitting attractions, hotels and restaurants.
+GlobeTrot, an acronym for globetrotting, is a site that allows users to search for a holiday destination of interest. Users are able to search for a city and see fitting attractions, hotels, restaurants, museums, transit, pharmacies and ATMs.
 
 ## Features:
 
