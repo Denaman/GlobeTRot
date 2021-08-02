@@ -33,3 +33,8 @@
                 infoWindow.open(map);
             });
         }
+
+        //Event lister
+        document.getElementById("search").addEventListener("change", function (e){
+            makeRequest(e.target.value);
+        })
