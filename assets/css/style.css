@@ -21,6 +21,10 @@ body{
     border-radius: 5px;
 }
 
+label{
+    width: 100%;
+}
+
 .search-input{
     color:white;
     /* we are reseting the default values for border and outline that bootstrap uses*/
@@ -36,7 +40,7 @@ body{
 
 .search .search-input{
     padding: 0 10px;
-    width: 100%;
+    width: 96%;
     caret-color: #CD853F;
     font-size: 19px;
     font-weight: 300;
